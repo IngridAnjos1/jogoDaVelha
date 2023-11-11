@@ -19,20 +19,6 @@ Pré-requisitos: Java 11
 https://github.com/IngridAnjos1/jogoDaVelha.git
 
 # entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
 cd jogoDaVelha
 
 # para jogar
